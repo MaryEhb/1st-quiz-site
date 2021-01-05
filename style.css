@@ -97,6 +97,6 @@ input{
 
 @media (max-width:800px){
     .result{
-        transform: scale(0.85);
+        transform: scale(0.8);
     }
 }
